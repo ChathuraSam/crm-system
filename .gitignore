@@ -1,13 +1,13 @@
 # Configuration stuff
-/application/config/development
-/application/sessions
+# /application/config/development
+# /application/sessions
 # /ipconfig.php
 
-# Dependencies
+Dependencies
 /node_modules
-/vendor
+# /vendor
 
-# Other files
+Other files
 /.htaccess
 .idea
 .sass-cache
